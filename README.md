@@ -28,6 +28,16 @@ We are exploring how servers work, how modding support is implemented, we develo
    - Discovering a minecraft protocol vulnerability
 6. **TBA**
 
+## Troubleshooting
+`Auth failed: [<twisted.python.failure.Failure OpenSSL.SSL.Error: [('SSL routines', 'tls_process_server_certificate', 'certificate verify failed')]>]`
+If you're using Windows, there are multiple ways to fix this.
+ - Change the server to offline mode
+ - Install WSL2, use a virtual machine with linux or just run it on a linux server.
+
+`1.18.2 doesn't seem to be supported`
+This is due to a change in the Minecraft protocol between 1.18(.1) and 1.18.2. A temporary but buggy fix is on the Quarry github issues page: [#134](https://github.com/barneygale/quarry/issues/134)
+
+
 ## Credits
 
 Thanks to all my supporters on [Patreon](https://www.patreon.com/liveoverflow) and [YouTube Members](https://www.youtube.com/c/LiveOverflow/join) for supporting weird projects like this.
