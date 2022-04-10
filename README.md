@@ -9,12 +9,13 @@ We are exploring how servers work, how modding support is implemented, we develo
 ## Episodes
 
 1. **I Spent 100 Days Hacking Minecraft** [video](https://www.youtube.com/watch?v=Ekcseve-mOg&list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG&index=1)
-   - Minecraft network protocol basics
-   - Minecraft python proxy
-   - Teleport hack [file](/01_protocol_proxy/teleport_proxy.py)
-2. **Minecraft, But It's Reverse Engineered...**
-   - Reverse engineering obfuscated java
-   - How Minecraft servers are implemented
+   - Minecraft network protocol [wiki.vg](https://wiki.vg/Protocol)
+   - Minecraft python proxy with [Quarry](https://github.com/barneygale/quarry)
+   - Teleport hack attempt [file](/01_protocol_proxy/teleport_proxy.py)
+2. **Minecraft, But It's Reverse Engineered...** [video](https://www.youtube.com/watch?v=OXdFckukh2I&list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG&index=3)
+   - How Minecraft Server [PaperMC](https://github.com/PaperMC/Paper) is implemented
+   - Reverse engineering Java with [jd-gui](http://java-decompiler.github.io/) and [fernflower by IntelliJ IDEA](https://www.jetbrains.com/idea/)
+   - Obfuscated mappings via [intermediary](https://github.com/FabricMC/intermediary) and [yarn](https://github.com/FabricMC/yarn/tree/1.18.2-pre3/mappings/net/minecraft)
 3. **Minecraft Hacker VS Herobrine**
    - How Minecraft (client) mods work
    - Modifying Java with mixins
