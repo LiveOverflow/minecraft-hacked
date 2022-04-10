@@ -16,6 +16,7 @@ We are exploring how servers work, how modding support is implemented, we develo
    - How Minecraft Server [PaperMC](https://github.com/PaperMC/Paper) is implemented
    - Reverse engineering Java with [jd-gui](http://java-decompiler.github.io/) and [fernflower by IntelliJ IDEA](https://www.jetbrains.com/idea/)
    - Obfuscated mappings via [intermediary](https://github.com/FabricMC/intermediary) and [yarn](https://github.com/FabricMC/yarn/tree/1.18.2-pre3/mappings/net/minecraft)
+   - How Minecraft [projects relate](https://raw.githubusercontent.com/saboooor/fork-graph/main/img.png) by [saboooor](https://github.com/saboooor/fork-graph)
 3. **Minecraft Hacker VS Herobrine**
    - How Minecraft (client) mods work
    - Modifying Java with mixins
