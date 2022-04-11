@@ -1,6 +1,6 @@
 # Minecraft:HACKED
 
-[Minecraft:HACKED](https://www.youtube.com/playlist?list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG) is a video series by [@LiveOverflow](https://twitter.com/LiveOverflow) exploring various technical areas of Minecraft.It's a weird series trying to combine classic "Let's Plays" with "Hacking Tutorials".
+[Minecraft:HACKED](https://www.youtube.com/playlist?list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG) is a video series by [@LiveOverflow](https://twitter.com/LiveOverflow) exploring various technical areas of Minecraft. It's a weird series trying to combine classic "Let's Plays" with "Hacking Tutorials".
 
 We are exploring how servers work, how modding support is implemented, we develop our own hacks, audit minecraft for vulnerabilities and much more...
 
