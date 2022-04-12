@@ -6,6 +6,8 @@ We are exploring how servers work, how modding support is implemented, we develo
 
 ![Minecraft:HACKED Thumbnail](https://img.youtube.com/vi/Ekcseve-mOg/maxresdefault.jpg)
 
+**warning**: Don't hack in any public servers, this series is for educational purposes only.
+
 ## Episodes
 
 1. **I Spent 100 Days Hacking Minecraft** [video](https://www.youtube.com/watch?v=Ekcseve-mOg&list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG&index=1)
