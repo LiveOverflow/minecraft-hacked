@@ -17,10 +17,12 @@ We are exploring how servers work, how modding support is implemented, we develo
    - Reverse engineering Java with [jd-gui](http://java-decompiler.github.io/) and [fernflower by IntelliJ IDEA](https://www.jetbrains.com/idea/)
    - Obfuscated mappings via [intermediary](https://github.com/FabricMC/intermediary) and [yarn](https://github.com/FabricMC/yarn/tree/1.18.2-pre3/mappings/net/minecraft)
    - How Minecraft [projects relate](https://raw.githubusercontent.com/saboooor/fork-graph/main/img.png) by [saboooor](https://github.com/saboooor/fork-graph)
-3. **Minecraft Hacker VS Herobrine**
-   - How Minecraft (client) mods work
-   - Modifying Java with mixins
-   - Java bytecode manipulation
+3. **Minecraft Hacker VS Herobrine** [video](https://www.youtube.com/watch?v=Hmmr1oLt-V8&list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG&index=4)
+   - Fabric example client mod [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
+   - [Mixin examples](https://fabricmc.net/wiki/tutorial:mixin_examples)
+   - Shulker dupe mod [code by 0x3C50](https://github.com/Coderx-Gamer/shulker-dupe)
+   - Java bytecode manipulation with [asm.ow2](https://asm.ow2.io/)
+      - [video by FredOverflow](https://www.youtube.com/watch?v=WPDV3LgUL2E)
 4. **Flying Without Elytra**
    - Auto fish mod
    - Fly hack
