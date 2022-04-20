@@ -19,10 +19,11 @@ We are exploring how servers work, how modding support is implemented, we develo
    - How Minecraft [projects relate](https://raw.githubusercontent.com/saboooor/fork-graph/main/img.png) by [saboooor](https://github.com/saboooor/fork-graph)
 3. **Minecraft Hacker VS Herobrine** [video](https://www.youtube.com/watch?v=Hmmr1oLt-V8&list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG&index=4)
    - Fabric example client mod [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
-   - [Mixin examples](https://fabricmc.net/wiki/tutorial:mixin_examples)
+   - [Mixin examples](https://fabricmc.net/wiki/tutorial:mixin_examples) and [mixin cheatsheet](https://github.com/2xsaiko/mixin-cheatsheet)
    - Shulker dupe mod [code by 0x3C50](https://github.com/Coderx-Gamer/shulker-dupe)
    - Java bytecode manipulation with [asm.ow2](https://asm.ow2.io/)
       - [video by FredOverflow](https://www.youtube.com/watch?v=WPDV3LgUL2E)
+   - Development Plugion for IntelliJ https://mcdev.io/
 4. **Flying Without Elytra**
    - Auto fish mod
    - Fly hack
