@@ -23,7 +23,7 @@ We are exploring how servers work, how modding support is implemented, we develo
    - Shulker dupe mod [code by 0x3C50](https://github.com/Coderx-Gamer/shulker-dupe)
    - Java bytecode manipulation with [asm.ow2](https://asm.ow2.io/)
       - [video by FredOverflow](https://www.youtube.com/watch?v=WPDV3LgUL2E)
-   - Development Plugion for IntelliJ https://mcdev.io/
+   - Development Plugin for IntelliJ https://mcdev.io/
 4. **Flying Without Elytra**
    - Auto fish mod
    - Fly hack
