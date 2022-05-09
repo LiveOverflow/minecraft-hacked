@@ -70,7 +70,7 @@ class QuietBridge(Bridge):
 class QuietDownstreamFactory(DownstreamFactory):
     bridge_class = QuietBridge
     motd = "LiveOverflow Proxy"
-
+    online_mode = False
 
 # python basic_proxy.py -q 12345
 def main(argv):
