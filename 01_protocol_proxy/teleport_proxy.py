@@ -87,6 +87,7 @@ def main(argv):
     factory = QuietDownstreamFactory()
     factory.connect_host = args.connect_host
     factory.connect_port = args.connect_port
+    factory.online_mode = False
 
     # Listen
     factory.listen(args.listen_host, args.listen_port)
